@@ -1,0 +1,3 @@
+12,1,Marseille,Lyon,300,Toufiq
+14,1,Bordeaux,Mantes-La-Jolie,500,JB
+12,2,Lyon,Toulouse,360,Elyes
