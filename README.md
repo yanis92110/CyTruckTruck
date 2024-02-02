@@ -28,7 +28,7 @@ Le traitement h affiche tous les différents traitements existants, c'est la fon
 
 # Utilisation
 
-0. Télécharger CyTruckTruckFinale.zip
+0. Le dossier racine du projet qui est à utiliser est le dossier 'CyTruckTruckFinale'
 
 1. Compilation des fichiers .c et .h
 
