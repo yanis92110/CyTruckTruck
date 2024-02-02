@@ -37,5 +37,7 @@ Ouvrir un terminal dans le dossier 'progc' puis executer la comande 'make'.
 2. Lancement de l'application
 
 Ouvrir un terminal dans le dossier racine et écrire la commande 'bash main.sh data/data.csv -OPTIONS', ou OPTIONS prend les différents traitements. (d1, d2, l, s, t, h)
-Par exemple pour lancer le traitement l qui affice les 10 trajets les plus longs, écrire la commande:
+
+Par exemple pour lancer le traitement l qui affiche les 10 trajets les plus longs, écrire la commande:
+
 'bash main.sh data/data.csv -l'
