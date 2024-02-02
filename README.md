@@ -28,6 +28,8 @@ Le traitement h affiche tous les différents traitements existants, c'est la fon
 
 # Utilisation
 
+0. Télécharger CyTruckTruckFinale.zip
+
 1. Compilation des fichiers .c et .h
 
 Ouvrir un terminal dans le dossier 'progc' puis executer la comande 'make'.
