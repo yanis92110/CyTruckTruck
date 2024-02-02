@@ -21,3 +21,15 @@ Le traitement t affiche les 10 villes les plus traversées.
 ## -s
 
 Le traitement s affiche les différentes statistiques sur les étapes.
+
+# Utilisation
+
+1. Compilation des fichiers .c et .h
+
+Ouvrir un terminal dans le dossier puis executer la comande 'make'.
+
+2. Lancement de l'application
+
+Écrire la commande 'bash main.sh data/data.csv -OPTIONS', ou OPTION prend les différents traitements.
+Par exemple pour lancer le traitement l qui affice les 10 trajets les plus longs, écrire la commande:
+'bash main.sh data/data.csv -l'
