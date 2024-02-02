@@ -1,6 +1,6 @@
 # CyTruckTruck
 
-Notre application CyTruckTruck permet de lire les données d'un fichier CSV de 5 manières différentes:
+Notre programme CyTruckTruck permet de lire les données d'un fichier 'data.csv" de 5 manières différentes:
 
 ## -d1
 
