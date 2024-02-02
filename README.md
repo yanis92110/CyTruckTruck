@@ -22,14 +22,18 @@ Le traitement t affiche les 10 villes les plus traversées.
 
 Le traitement s affiche les différentes statistiques sur les étapes.
 
+## -h
+
+Le traitement h affiche tous les différents traitements existants, c'est la fonction -help du programme.
+
 # Utilisation
 
 1. Compilation des fichiers .c et .h
 
-Ouvrir un terminal dans le dossier puis executer la comande 'make'.
+Ouvrir un terminal dans le dossier 'progc' puis executer la comande 'make'.
 
 2. Lancement de l'application
 
-Écrire la commande 'bash main.sh data/data.csv -OPTIONS', ou OPTION prend les différents traitements.
+Ouvrir un terminal dans le dossier racine et écrire la commande 'bash main.sh data/data.csv -OPTIONS', ou OPTIONS prend les différents traitements. (d1, d2, l, s, t, h)
 Par exemple pour lancer le traitement l qui affice les 10 trajets les plus longs, écrire la commande:
 'bash main.sh data/data.csv -l'
